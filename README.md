@@ -1,6 +1,6 @@
-# Hi there, I'm a Java Developer Aspirant 👋
+# Hi there, I'm a Software Developer Aspirant 👋
 
-🎓 Computer Science Graduate | 💻 Aspiring Java Developer
+🎓 Computer Science Graduate | 💻 Aspiring Software Developer
 
 I'm a Computer Science graduate interested in software development and building practical applications. I enjoy learning programming concepts, improving my problem-solving skills, and exploring backend development with Java.
 
@@ -14,7 +14,8 @@ I'm a Computer Science graduate interested in software development and building 
 
 **Programming Language**
 - Core Java
-
+- Dart
+  
 **Core Concepts**
 - Object-Oriented Programming (OOP)
 - Java Fundamentals
@@ -28,6 +29,10 @@ I'm a Computer Science graduate interested in software development and building 
 **Backend Technologies — Currently Learning**
 - Spring Boot
 - REST APIs
+
+**Web Technologies**
+- HTML
+- CSS
 
 ## 💻 Coding Practice
 
