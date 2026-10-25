@@ -1,21 +1,22 @@
-# Hi there, I'm a Software Developer Aspirant 👋
+# Hi there, I'm an Aspiring Software Developer 👋
 
 🎓 Computer Science Graduate | 💻 Aspiring Software Developer
 
-I'm a Computer Science graduate interested in software development and building practical applications. I enjoy learning programming concepts, improving my problem-solving skills, and exploring backend development with Java.
+I'm a Computer Science graduate interested in software development and building practical applications. I enjoy learning programming concepts, improving my problem-solving skills, and exploring different technologies.
 
-- 🌱 Learning and strengthening my Core Java skills
-- 🛠️ Exploring Spring Boot and REST API development
-- 🗄️ Learning database concepts using SQL and MySQL
-- 🎯 Looking for opportunities to begin my career in Java development
-- 📚 Focused on understanding concepts through practice and hands-on learning
+🌱 Strengthening my programming fundamentals  
+☕ Learning and practicing Core Java  
+🛠️ Exploring Spring Boot and REST API development  
+🗄️ Learning SQL and MySQL database concepts  
+📚 Focused on hands-on practice and continuous learning  
+🎯 Looking forward to growing as a software developer
 
 ## 🛠️ Technical Skills
 
-**Programming Language**
-- Core Java
+**Programming Languages**
+- Java
 - Dart
-  
+
 **Core Concepts**
 - Object-Oriented Programming (OOP)
 - Java Fundamentals
@@ -34,9 +35,12 @@ I'm a Computer Science graduate interested in software development and building 
 - HTML
 - CSS
 
+**Framework**
+- Flutter
+
 ## 💻 Coding Practice
 
-I practice Java programming to strengthen my understanding of programming fundamentals and improve my problem-solving abilities.
+I practice programming to strengthen my understanding of programming fundamentals and improve my problem-solving skills.
 
 My learning focus includes:
 - Writing Java programs
@@ -46,9 +50,9 @@ My learning focus includes:
 
 ## 🚀 Projects
 
-I'm developing my practical skills by learning Java and backend development step by step.
+I've worked on beginner-level web projects using HTML and CSS and explored app development with Flutter.
 
-As I build projects, I'll add their descriptions, technologies used, and repository links here.
+I'm continuing to build my practical skills and will add more projects as I learn and gain experience.
 
 ## 📫 Connect With Me
 
